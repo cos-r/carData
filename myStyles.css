@@ -1,0 +1,14 @@
+* {
+  font-family: 'Abel', sans-serif;
+  font-size: 16px;
+}
+
+/* To display DDs on same line change 'diiv' to 'div' */
+diiv {
+  display: inline-block;
+}
+
+body {
+  width: 40%;
+  background-color: #cccccc;
+}
